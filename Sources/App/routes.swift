@@ -29,7 +29,7 @@ public func routes(_ router: Router) throws {
         return "When you're pushed, pushing's as easy as breathing."
     }
     router.get("shoved") { req in
-        return "When you're shoved, shovin's as easy as breathin'"
+        return "When you're shoved, shovinh's as easy as breathin"
     }
 
     // Example of configuring a controller
